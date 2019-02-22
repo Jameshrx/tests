@@ -4,14 +4,22 @@ body {
   background: black;
   font-family: 'ZCOOL QingKe HuangYou', cursive;
 }
+.white {
+  color: white;
+} 
 .bouncyHouse {
-  height: 90vh;
+    height:200px;
+    width:400px;
+    background-color: #111111;
+    position: relative;
 }
+
 .bouncer {
     position: absolute;
     width: 200px;
 }
-.white {
-  color: white;
-} 
 
+.border {
+    width:100%;
+    position: relative;
+}
