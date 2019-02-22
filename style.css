@@ -3,13 +3,15 @@
 body {
   background: black;
   font-family: 'ZCOOL QingKe HuangYou', cursive;
+  padding:0;
+  margin:0;
 }
 .white {
   color: white;
 } 
 .bouncyHouse {
-    height:200px;
-    width:400px;
+    height:1366px;
+    width:768px;
     background-color: #111111;
     position: relative;
 }
