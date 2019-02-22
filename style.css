@@ -1,5 +1,8 @@
+@import url('https://fonts.googleapis.com/css?family=ZCOOL+QingKe+HuangYou');
+
 body {
   background: black;
+  font-family: 'ZCOOL QingKe HuangYou', cursive;
 }
 .white {
   color: white;
