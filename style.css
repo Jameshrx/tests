@@ -10,10 +10,12 @@ body {
   color: white;
 } 
 .bouncyHouse {
-    width:1366px;
-    height:768px;
+    width:1000px;
+    height:700px;
     background-color: #111111;
     position: relative;
+    display:block;
+    margin: 0 auto;
 }
 
 .bouncer {
