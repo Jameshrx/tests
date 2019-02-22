@@ -4,6 +4,10 @@ body {
   background: black;
   font-family: 'ZCOOL QingKe HuangYou', cursive;
 }
+.bouncer {
+    position: absolute;
+    width: 200px;
+}
 .white {
   color: white;
 } 
